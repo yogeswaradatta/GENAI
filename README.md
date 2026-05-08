@@ -1,0 +1,2 @@
+# GENAI
+Practise of GENAI
